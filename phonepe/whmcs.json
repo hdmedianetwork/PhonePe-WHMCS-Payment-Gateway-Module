@@ -1,0 +1,32 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateway",
+  "name": "phonepe",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "PhonePe Payment Gateway",
+    "tagline": "India's leading UPI & digital payments platform — developed by SkyServer Cloud Technologies.",
+    "long": "Accept payments from your customers via PhonePe — India's most trusted digital payments platform used by 500M+ users. Supports UPI, Credit Cards, Debit Cards, Net Banking and Wallets. This module is developed and maintained by SkyServer Cloud Technologies.",
+    "features": [
+      "UPI, Credit/Debit Cards, Net Banking & Wallet payments",
+      "Secure SHA256 checksum verification on every transaction",
+      "Automatic payment status update in WHMCS on success",
+      "Refund support via PhonePe API",
+      "Staging & Production environment support"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://skyserver.in",
+    "docs_url": "https://skyserver.in"
+  },
+  "authors": [
+    {
+      "name": "SkyServer Cloud Technologies",
+      "homepage": "https://skyserver.in"
+    }
+  ]
+}
